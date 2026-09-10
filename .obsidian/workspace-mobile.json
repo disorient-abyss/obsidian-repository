@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "2e9af003fe7023b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd58e0f629a7dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda74802989a71c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "深度学习"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81658dc7eb513f51",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7c91470b6ec62c6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "6a32c716be6e20c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "29fc3aa4d201a1a5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "0ee6daa41bc25f4e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "523442877e5bc528",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f1344f2ba1d3eba6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed15a788aa53df79",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "dc1cf30c932d2912",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "2d84d7589caab2de",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "dbcbc58e4a498ba6",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dda74802989a71c2",
+  "lastOpenFiles": [
+    "/深度学习.md",
+    "/image/Pasted image 20260704230035.png",
+    "image/Pasted image 20260704230035.png",
+    "/image",
+    "财务.md",
+    "深度学习.md",
+    "image/Pasted image 20260704212402.png",
+    "image/Pasted Image 20260520163218.png",
+    "/image/Pasted image 20260704212402.png",
+    "/Excalidraw/RocketMQ系统架构图.excalidraw.md",
+    "/Excalidraw",
+    "/image/Pasted Image 20260520163218.png",
+    "Excalidraw/RBAC模型.excalidraw.md",
+    "Excalidraw/openFeign.excalidraw.md",
+    "Excalidraw/道图.excalidraw.md",
+    "Excalidraw/后天八卦图.excalidraw.md",
+    "/Excalidraw/后天八卦图.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-02 09.59.51.excalidraw.md",
+    "Excalidraw/RocketMQ系统架构图.excalidraw.md",
+    "Excalidraw/统一响应类（R.java）的设计思路.excalidraw.md",
+    "角色表.md",
+    "Excalidraw/全局异常处理器设计.excalidraw.md",
+    "术语表与专业词汇解释.md",
+    "供应商管理系统(SRM).md",
+    "Excalidraw/项目设计.excalidraw.md",
+    "Excalidraw/整体技术架构.excalidraw.md",
+    "Excalidraw/供应商全生命周期管理流程.excalidraw.md",
+    "Excalidraw/供应商管理系统(SRM).excalidraw.md",
+    "Excalidraw/供应链系统.excalidraw.md",
+    "Excalidraw/分布式之间的同步调用和异步调用.excalidraw.md",
+    "JAVA八股问题考点.md",
+    "/image/Pasted Image 20260520163218_616.png",
+    "image/Pasted Image 20260520163218_616.png",
+    "/Excalidraw/道图.excalidraw.md",
+    "/Excalidraw/image",
+    "其它技术.md"
+  ]
+}

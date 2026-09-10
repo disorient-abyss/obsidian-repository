@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "code-no-wrap"
+  ],
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "accentColor": "#d06925"
+}

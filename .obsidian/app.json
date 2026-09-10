@@ -1,0 +1,20 @@
+{
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./image",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "smartIndentList": false,
+  "tabSize": 4,
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 95
+  },
+  "readableLineLength": true
+}
