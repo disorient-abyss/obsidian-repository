@@ -28,6 +28,11 @@ git branch -D <分支名>
 git remote add <远程仓库别名> <新的仓库地址>
 ```
 
+- 删除旧仓库
+```zsh
+git remote remove <旧的仓库名>
+```
+
 - 更改远程推送名称
 ```zsh
 git remote rename <原远程仓库别名> <新的远程仓库别名>
