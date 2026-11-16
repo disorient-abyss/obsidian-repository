@@ -30,7 +30,7 @@
     "isUseHandDrawnLikeStyle": false,
     "isUseMomentum": false,
     "isUseSameNodeAlign": false,
-    "isDark": true,
+    "isDark": false,
     "isShowBottomToolbar": true,
     "autoSaveTime": 5
   },
